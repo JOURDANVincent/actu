@@ -1,9 +1,9 @@
-.box {
+.webPage {
     display: flex;
     width: 100%;
     justify-content: space-around;
 }
-#col1, #col2, #col3 {
+#leftSec, #centerSec, #rightSec {
     display: flex;
     flex-direction: column;
     padding: 5px;
@@ -11,7 +11,8 @@
 }
 
 .titre {
-    color: blue;
+    /* color: #afdbfa; */
+    color:  #1c93ee;
 }
 
 .imgBox {
